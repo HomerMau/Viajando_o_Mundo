@@ -1,0 +1,82 @@
+main {
+
+    width: 626px;
+    margin: auto;
+
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+
+    text-align: center; 
+    margin: 64px auto 0px;
+
+    min-height: 100vh;
+
+    
+}
+
+body #girl {
+    margin-top: 64px;
+    margin-bottom: 0px;
+    
+}
+
+h1 {
+
+
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 16px;
+    
+    color: #3F3D56;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+h1 span{
+
+
+    color: #EE24FF;
+    font-weight: bold
+    
+}
+
+footer {
+  
+    width: 1024px;
+    margin: auto ;
+    
+
+}
+
+
+#line {
+width: 391px;
+
+
+margin: 0 auto 16px;
+border: 1px solid #ECEFF2;
+
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a + a {
+    font-size: 15px;
+    margin-left: 42px;
+    
+}
+
+
+footer #wave {
+    position: relative;
+    margin: 0 auto 0;
+    bottom: -56px;
+}
