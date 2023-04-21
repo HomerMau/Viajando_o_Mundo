@@ -46,6 +46,10 @@ h1 span{
     
 }
 
+p {
+    margin-bottom: 62px;
+}
+
 footer {
   
     width: 1024px;
@@ -76,7 +80,5 @@ footer a + a {
 
 
 footer #wave {
-    position: relative;
     margin: 0 auto 0;
-    bottom: -56px;
 }
